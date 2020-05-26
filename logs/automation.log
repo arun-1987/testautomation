@@ -1,0 +1,159 @@
+[INFO ] 2020-05-20 13:08:53.665 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:08:54.063 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:08:54.077 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:08:54.078 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:08:54.079 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:08:54.079 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:09:02.684 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:09:03.226 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:09:09.822 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:09:10.163 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:09:23.971 [TestNG-test=Test-1] GoogleHomePage - Title does not match Expected is : Cheese Actual is : org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.selenium.ui.helper.WaitHelper that uses org.openqa.selenium.WebDriver, org.openqa.selenium.WebDriverjava.lang.String was not fulfilled within 10 seconds.
+[DEBUG] 2020-05-20 13:09:33.360 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:09:33.360 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:09:33.360 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:09:33.361 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:09:33.361 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:11:30.119 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:11:30.406 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:11:30.415 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:11:30.415 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:11:30.415 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:11:30.416 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:11:37.014 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:11:37.401 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:11:43.704 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:11:43.921 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:11:56.860 [main] GoogleHomePage - Title does not match Expected is : Cheese Actual is : org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.selenium.ui.helper.WaitHelper that uses org.openqa.selenium.WebDriver, org.openqa.selenium.WebDriverjava.lang.String was not fulfilled within 10 seconds.
+[INFO ] 2020-05-20 13:14:27.717 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:14:27.975 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:14:27.986 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:14:27.987 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:14:27.988 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:14:27.988 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:14:34.480 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:14:34.866 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:14:40.859 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:14:41.140 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:14:54.063 [TestNG-test=Test-1] GoogleHomePage - Title does not match Expected is : Cheese Actual is : org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.selenium.ui.helper.WaitHelper that uses org.openqa.selenium.WebDriver, org.openqa.selenium.WebDriverjava.lang.String was not fulfilled within 10 seconds.
+[INFO ] 2020-05-20 13:16:08.865 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:16:09.126 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:16:09.138 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:16:09.139 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:16:09.139 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:16:09.141 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:16:15.446 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:16:15.836 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:16:21.694 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:16:22.023 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:16:34.916 [TestNG-test=Test-1] GoogleHomePage - Title does not match Expected is : Cheese Actual is : org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.selenium.ui.helper.WaitHelper that uses org.openqa.selenium.WebDriver, org.openqa.selenium.WebDriverjava.lang.String was not fulfilled within 10 seconds.
+[INFO ] 2020-05-20 13:17:49.909 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:17:50.333 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:17:50.344 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:17:50.344 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:17:50.345 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:17:50.345 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:17:56.853 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:17:57.256 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:18:02.875 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:18:03.131 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:18:16.069 [TestNG-test=Test-1] GoogleHomePage - Title does not match Expected is : Cheese Actual is : org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.selenium.ui.helper.WaitHelper that uses org.openqa.selenium.WebDriver, org.openqa.selenium.WebDriverjava.lang.String was not fulfilled within 10 seconds.
+[INFO ] 2020-05-20 13:18:19.287 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:18:19.787 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:38:28.757 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:38:29.155 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:38:29.210 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:38:29.210 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:38:29.210 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:38:29.210 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:38:58.711 [main] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:38:58.728 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:38:59.236 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:41:59.256 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:41:59.578 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:41:59.591 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:41:59.591 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:41:59.591 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:41:59.592 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:42:05.711 [TestNG-test=Test-1] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:42:05.726 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:42:06.094 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:42:11.923 [TestNG-test=Test-1] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:42:11.929 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:42:12.238 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:42:25.183 [TestNG-test=Test-1] GoogleHomePage - Title does not match Expected is : Cheese Actual is : org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.selenium.ui.helper.WaitHelper that uses org.openqa.selenium.WebDriver, org.openqa.selenium.WebDriverjava.lang.String was not fulfilled within 10 seconds.
+[INFO ] 2020-05-20 13:42:27.257 [TestNG-test=Test-1] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:42:27.262 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:42:27.617 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:43:36.980 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:43:37.336 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:43:37.347 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:43:37.348 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:43:37.348 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:43:37.349 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:43:43.457 [TestNG-test=Test-1] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:43:43.472 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:43:43.990 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:43:49.723 [TestNG-test=Test-1] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:43:49.729 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:43:50.057 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:44:02.768 [TestNG-test=Test-1] GoogleHomePage - Title does not match Expected is : Cheese Actual is : org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.selenium.ui.helper.WaitHelper that uses org.openqa.selenium.WebDriver, org.openqa.selenium.WebDriverjava.lang.String was not fulfilled within 10 seconds.
+[INFO ] 2020-05-20 13:44:05.021 [TestNG-test=Test-1] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:44:05.029 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:44:05.374 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-20 13:52:52.783 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 13:52:53.078 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 13:52:53.094 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 13:52:53.095 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 13:52:53.095 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 13:52:53.095 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 13:52:59.753 [main] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 13:52:59.772 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 13:53:00.296 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 13:53:16.344 [main] GoogleHomePage - Element is not displayed : java.util.concurrent.TimeoutException
+[ERROR] 2020-05-20 13:53:52.712 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-20 13:54:41.387 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-20 13:55:30.147 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2020-05-20 14:03:43.741 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 14:03:44.172 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 14:03:44.223 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 14:03:44.223 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 14:03:44.223 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 14:03:44.224 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 14:08:17.975 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 14:08:18.346 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 14:08:18.356 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 14:08:18.356 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 14:08:18.357 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 14:08:18.357 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 14:10:01.707 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 14:10:02.084 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 14:10:02.100 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 14:10:02.101 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 14:10:02.101 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 14:10:02.102 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 14:10:08.132 [main] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 14:10:08.148 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 14:10:09.613 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 14:10:29.624 [main] GoogleHomePage - Exception thrown in performSubmit functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.name: btnK (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2020-05-20 14:10:30.353 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-20 14:10:30.445 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-20 14:10:30.476 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2020-05-20 14:11:14.635 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-20 14:11:14.912 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-20 14:11:14.926 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-20 14:11:14.927 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-20 14:11:14.927 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-20 14:11:14.927 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-20 14:11:20.305 [main] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 14:11:20.329 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 14:11:20.904 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 14:11:40.911 [main] GoogleHomePage - Exception thrown in performSubmit functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.name: btnK (tried for 20 second(s) with 5 milliseconds interval)
+[INFO ] 2020-05-20 14:11:44.437 [main] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 14:11:44.441 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 14:11:44.820 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 14:12:04.853 [main] GoogleHomePage - Exception thrown in performSubmit functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.name: btnK (tried for 20 second(s) with 5 milliseconds interval)
+[INFO ] 2020-05-20 14:12:07.965 [main] WaitHelper - Waiting for page load timeout
+[INFO ] 2020-05-20 14:12:07.970 [main] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-20 14:12:08.530 [main] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[ERROR] 2020-05-20 14:12:28.537 [main] GoogleHomePage - Exception thrown in performSubmit functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.name: btnK (tried for 20 second(s) with 5 milliseconds interval)

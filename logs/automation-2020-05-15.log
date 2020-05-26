@@ -1,0 +1,135 @@
+[DEBUG] 2020-05-15 19:09:20.971 [TestNG-test=Test-4] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-15 19:09:20.972 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-15 19:09:20.976 [TestNG-test=Test-3] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-15 19:09:20.972 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:09:20.988 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:20.988 [TestNG-test=Test-3] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:20.988 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:20.988 [TestNG-test=Test-4] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-3] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-4] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-3] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-4] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-4] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:09:20.990 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:20.991 [TestNG-test=Test-3] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:09:20.991 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:09:21.056 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:21.056 [TestNG-test=Test-3] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:21.056 [TestNG-test=Test-4] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-4] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-4] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-3] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:09:21.057 [TestNG-test=Test-4] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:09:21.058 [TestNG-test=Test-3] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:09:21.058 [TestNG-test=Test-3] DriverFactoryManager - Selenium Grid is set to : false
+[DEBUG] 2020-05-15 19:10:01.645 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:10:01.660 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:10:01.660 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:10:01.660 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:10:01.661 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[DEBUG] 2020-05-15 19:13:06.194 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-15 19:14:09.695 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:14:09.710 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:14:09.710 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:14:09.711 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:14:09.711 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:15:57.039 [main] TestBase - Execution type is set to API
+[INFO ] 2020-05-15 19:17:09.252 [main] TestBase - Execution type is set to API
+[INFO ] 2020-05-15 19:23:37.508 [main] TestBase - Execution type is set to API
+[INFO ] 2020-05-15 19:24:20.933 [main] TestBase - Execution type is set to API
+[INFO ] 2020-05-15 19:25:06.009 [main] TestBase - Execution type is set to API
+[INFO ] 2020-05-15 19:26:35.110 [main] TestBase - Execution type is set to API in Maven POM Properties.For UI Execution set the property flag executiontypeweb to true
+[INFO ] 2020-05-15 19:30:05.667 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-15 19:30:05.946 [TestNG-test=Test-4] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:30:05.959 [TestNG-test=Test-4] DriverFactoryManager - Local Operating System: WINDOWS 10
+[DEBUG] 2020-05-15 19:30:05.960 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:30:05.960 [TestNG-test=Test-4] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:30:05.960 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:30:05.960 [TestNG-test=Test-4] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:30:05.960 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:30:05.960 [TestNG-test=Test-4] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:30:05.960 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:30:05.960 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[DEBUG] 2020-05-15 19:30:05.961 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:30:05.961 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:30:05.961 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:30:05.961 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:30:05.961 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[DEBUG] 2020-05-15 19:30:05.964 [TestNG-test=Test-3] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:30:05.965 [TestNG-test=Test-3] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:30:05.966 [TestNG-test=Test-3] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:30:05.966 [TestNG-test=Test-3] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:30:05.966 [TestNG-test=Test-3] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:30:16.556 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:30:16.574 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:30:16.999 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:30:17.200 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:30:17.403 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:30:17.465 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:30:17.544 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:30:18.321 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:31.753 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-15 19:33:32.045 [TestNG-test=Test-4] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:33:32.056 [TestNG-test=Test-4] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:33:32.057 [TestNG-test=Test-4] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:33:32.057 [TestNG-test=Test-4] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:33:32.057 [TestNG-test=Test-4] DriverFactoryManager - Selenium Grid is set to : false
+[DEBUG] 2020-05-15 19:33:37.267 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-15 19:33:37.268 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[ERROR] 2020-05-15 19:33:37.269 [TestNG-test=Test-2] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-15 19:33:37.269 [TestNG-test=Test-1] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2020-05-15 19:33:37.274 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[DEBUG] 2020-05-15 19:33:37.274 [TestNG-test=Test-3] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[ERROR] 2020-05-15 19:33:37.275 [TestNG-test=Test-3] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2020-05-15 19:33:37.277 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:33:37.277 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:33:37.277 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:33:37.278 [TestNG-test=Test-3] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:33:37.278 [TestNG-test=Test-3] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:33:37.279 [TestNG-test=Test-3] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:33:37.279 [TestNG-test=Test-3] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:33:37.306 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:33:37.307 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:33:37.307 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:33:37.307 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:33:40.975 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:41.632 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:44.356 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:44.689 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:44.793 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:44.985 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:46.000 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:33:46.082 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:20 seconds
+[INFO ] 2020-05-15 19:36:10.886 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-15 19:36:16.324 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-15 19:36:16.342 [TestNG-test=Test-3] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:36:16.345 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:36:16.349 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:36:16.350 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:36:16.351 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[DEBUG] 2020-05-15 19:36:16.352 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[ERROR] 2020-05-15 19:36:16.352 [TestNG-test=Test-2] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-15 19:36:16.354 [TestNG-test=Test-3] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2020-05-15 19:39:34.454 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-15 19:39:39.999 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-15 19:39:40.010 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-15 19:39:40.011 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-15 19:39:40.011 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-15 19:39:40.012 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-15 19:53:55.965 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-15 19:54:01.245 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[ERROR] 2020-05-15 19:54:01.256 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-15 19:54:01.330 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2020-05-15 19:54:01.386 [main] TestBase - Unable to clear cookies, driver object is not viable...

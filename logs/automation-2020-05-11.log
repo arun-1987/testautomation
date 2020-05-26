@@ -1,0 +1,331 @@
+[INFO ] 2020-05-11 19:59:07.792 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 19:59:07.887 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 19:59:07.898 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 19:59:07.899 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 19:59:07.899 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 19:59:07.899 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 19:59:14.649 [main] WaitHelper - Waiting for By.name: q123 for the specified:10 seconds
+[INFO ] 2020-05-11 20:17:03.717 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 20:17:03.807 [TestNG-test=Surefire test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 20:17:03.818 [TestNG-test=Surefire test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 20:17:03.819 [TestNG-test=Surefire test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 20:17:03.819 [TestNG-test=Surefire test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 20:17:03.819 [TestNG-test=Surefire test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 20:17:10.787 [TestNG-test=Surefire test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 20:17:11.241 [TestNG-test=Surefire test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 20:19:01.567 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 20:19:01.644 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 20:19:01.654 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 20:19:01.655 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 20:19:01.655 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 20:19:01.657 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 20:19:08.024 [main] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 20:19:08.476 [main] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 20:19:19.494 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 20:19:19.596 [TestNG-test=Surefire test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 20:19:19.636 [TestNG-test=Surefire test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 20:19:19.637 [TestNG-test=Surefire test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 20:19:19.639 [TestNG-test=Surefire test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 20:19:19.640 [TestNG-test=Surefire test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 20:19:26.504 [TestNG-test=Surefire test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 20:19:26.957 [TestNG-test=Surefire test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 20:42:20.553 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 20:42:20.842 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 20:42:20.855 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 20:42:20.855 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 20:42:20.856 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 20:42:20.856 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 20:43:33.814 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 20:43:34.157 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 20:43:34.171 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 20:43:34.172 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 20:43:34.172 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 20:43:34.172 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 20:43:40.306 [main] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 20:43:40.886 [main] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 20:44:34.642 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 20:44:34.925 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 20:44:34.936 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 20:44:34.936 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 20:44:34.937 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 20:44:34.937 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 20:44:41.388 [main] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 20:44:41.958 [main] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:30:38.528 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:30:38.828 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:30:38.838 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:30:38.839 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:30:38.839 [main] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:30:38.839 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:30:46.026 [main] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:30:46.572 [main] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:30:51.093 [main] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:30:51.656 [main] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:34:40.603 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:34:40.882 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:34:40.883 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:34:40.889 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:34:48.229 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:34:48.260 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:34:48.690 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:34:48.944 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:38:12.525 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:38:12.791 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:38:12.791 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:38:12.804 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:38:12.804 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:38:12.805 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:38:12.805 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:38:12.805 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:38:12.805 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:38:12.805 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:38:12.805 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:38:19.881 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:38:20.077 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:38:20.549 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:38:20.662 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:42:09.427 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:42:09.698 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:42:09.698 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:42:09.708 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:42:09.708 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:42:09.709 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:42:09.709 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:42:09.709 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:42:09.709 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:42:09.710 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:42:09.710 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:42:16.812 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:42:17.126 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:42:17.439 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:42:17.629 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:44:07.105 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:44:07.417 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:44:07.426 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:44:07.428 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:44:07.428 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:44:07.429 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:44:07.429 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:44:07.429 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:44:07.429 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:44:07.430 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:44:07.430 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:46:25.113 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:46:25.350 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:46:25.350 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:46:25.361 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:46:25.361 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:46:25.362 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:46:25.362 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:46:25.362 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:46:25.362 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:46:25.362 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:46:25.362 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:46:32.125 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:46:32.489 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:46:32.529 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:46:32.780 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:49:34.952 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:49:35.219 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:49:35.220 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:49:35.227 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:49:35.227 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:49:35.227 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:49:35.227 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:49:35.228 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:49:35.228 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:49:35.228 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:49:35.228 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:49:46.780 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:49:46.820 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:49:47.239 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:49:47.477 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:50:45.162 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:50:45.440 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:50:45.440 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:50:45.451 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:50:45.451 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:50:45.451 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:50:45.452 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:50:45.452 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:50:45.452 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:50:45.452 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:50:45.452 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:50:58.735 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:50:58.796 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:50:59.083 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:50:59.164 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[ERROR] 2020-05-11 21:51:04.732 [TestNG-test=Test-1] GoogleHomePage - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARUNHOME', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\aruni\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58780}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1072552243dae2bae3b912c2114504f1
+[INFO ] 2020-05-11 21:53:14.896 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:53:15.185 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:53:15.186 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:53:15.195 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:53:15.195 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:53:15.196 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:53:15.196 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:53:15.196 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:53:15.196 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:53:15.196 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:53:15.197 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:53:24.518 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:53:24.841 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:53:24.894 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:53:25.456 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:54:05.699 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:54:05.980 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:54:05.980 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:54:05.991 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:54:05.991 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:54:05.992 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:54:05.992 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:54:05.992 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:54:05.992 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:54:05.992 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:54:05.992 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:54:13.922 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:54:14.130 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:54:14.340 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:54:14.412 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[ERROR] 2020-05-11 21:54:21.374 [TestNG-test=Test-2] GoogleHomePage - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARUNHOME', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\aruni\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59327}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cc397aa0b5e293d97d880122ab3041b9
+[INFO ] 2020-05-11 21:54:58.901 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:54:59.174 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:54:59.176 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:54:59.184 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:54:59.184 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:54:59.184 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:54:59.184 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:54:59.184 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:54:59.184 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:54:59.184 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:54:59.185 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:55:15.723 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:55:16.097 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:55:17.191 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:55:17.695 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:03.704 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:56:03.981 [TestNG-test=Test-4] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:56:03.982 [TestNG-test=Test-3] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:56:03.982 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:56:03.983 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:56:03.991 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:56:03.991 [TestNG-test=Test-4] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:56:03.991 [TestNG-test=Test-3] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:56:03.991 [TestNG-test=Test-3] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:56:03.991 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:56:03.991 [TestNG-test=Test-4] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:56:03.992 [TestNG-test=Test-4] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:56:03.992 [TestNG-test=Test-3] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:56:03.992 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:56:03.992 [TestNG-test=Test-4] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:56:03.992 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:56:03.992 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:56:03.992 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:56:03.993 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:56:03.993 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:56:03.994 [TestNG-test=Test-3] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:56:18.352 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:18.371 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:18.571 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:18.591 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:18.819 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:18.922 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:19.039 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 21:56:19.194 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[ERROR] 2020-05-11 21:56:25.750 [TestNG-test=Test-3] GoogleHomePage - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARUNHOME', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\aruni\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59725}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 29fd4276358a4f07d90c1b0693724eea
+[ERROR] 2020-05-11 21:56:25.791 [TestNG-test=Test-1] GoogleHomePage - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARUNHOME', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\aruni\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59725}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 29fd4276358a4f07d90c1b0693724eea
+[ERROR] 2020-05-11 21:56:29.045 [TestNG-test=Test-4] GoogleHomePage - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.name: btnK (tried for 10 second(s) with 5 milliseconds interval)
+[INFO ] 2020-05-11 21:57:12.798 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 21:57:13.064 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:57:13.064 [TestNG-test=Test-3] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:57:13.065 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 21:57:13.067 [TestNG-test=Test-4] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 21:57:13.074 [TestNG-test=Test-4] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:57:13.074 [TestNG-test=Test-3] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:57:13.074 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:57:13.074 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:57:13.074 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:57:13.074 [TestNG-test=Test-4] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:57:13.075 [TestNG-test=Test-4] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:57:13.075 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:57:13.075 [TestNG-test=Test-4] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:57:13.075 [TestNG-test=Test-3] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:57:13.075 [TestNG-test=Test-3] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:57:13.075 [TestNG-test=Test-3] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 21:57:13.075 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 21:57:13.076 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 21:57:13.078 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 21:57:13.078 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 22:01:49.389 [main] ChromeService - ChromeDriver Service is started...
+[DEBUG] 2020-05-11 22:01:49.650 [TestNG-test=Test-1] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 22:01:49.650 [TestNG-test=Test-4] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 22:01:49.650 [TestNG-test=Test-2] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[DEBUG] 2020-05-11 22:01:49.651 [TestNG-test=Test-3] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2020-05-11 22:01:49.657 [TestNG-test=Test-4] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 22:01:49.657 [TestNG-test=Test-1] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 22:01:49.657 [TestNG-test=Test-2] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 22:01:49.657 [TestNG-test=Test-3] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2020-05-11 22:01:49.657 [TestNG-test=Test-2] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 22:01:49.657 [TestNG-test=Test-1] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-4] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-3] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-2] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-4] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-2] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-3] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-4] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-1] DriverFactoryManager - Selected Browser: CHROME
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-3] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 22:01:49.658 [TestNG-test=Test-1] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2020-05-11 22:02:04.159 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 22:02:04.173 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 22:02:04.209 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 22:02:04.479 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: q for the specified:10 seconds
+[INFO ] 2020-05-11 22:02:04.708 [TestNG-test=Test-4] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 22:02:05.049 [TestNG-test=Test-3] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 22:02:05.344 [TestNG-test=Test-1] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[INFO ] 2020-05-11 22:02:05.506 [TestNG-test=Test-2] WaitHelper - Waiting for By.name: btnK for the specified:10 seconds
+[ERROR] 2020-05-11 22:02:12.446 [TestNG-test=Test-3] GoogleHomePage - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARUNHOME', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\aruni\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60746}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8c4df4cfcc386f75c996b254c53ce636
+[ERROR] 2020-05-11 22:02:15.375 [TestNG-test=Test-1] GoogleHomePage - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.name: btnK (tried for 10 second(s) with 5 milliseconds interval)
+[ERROR] 2020-05-11 22:02:15.514 [TestNG-test=Test-2] GoogleHomePage - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.name: btnK (tried for 10 second(s) with 5 milliseconds interval)

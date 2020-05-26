@@ -1,0 +1,25 @@
+{
+ 
+ "executiontypeWeb":"true",
+ "executiontypeMobile":"true",
+ "executiontypeApi":"true",
+ 
+ "execution":"local",
+ "gridurl" : "",
+ "applicationurl" : "https://www.google.com",
+ "remoteDriver":"true",
+ "gridURL":"https://localhost.com",
+ "useGrid" : "false",
+ "desiredBrowserVersion":"",
+ "desiredPlatform":"",
+ "browser":"CHROME",
+ "chromeDriverService":"true",
+ "reportpath":"/src/main/resources/report/extent.html",
+ "screenshotpath":"/src/main/resources/report/screenshots",
+ 
+ "explicitwait":"20",
+ "implicitwait":"0",
+ "pageloadwait":"10",
+ "pollingtime":"5"
+
+}
